@@ -1,0 +1,13 @@
+body {
+margin:0 !important;
+padding:0  !important
+}
+.banner{
+
+
+
+    border: 1px solid red;
+   background-color: blue;
+   width: 100%;
+
+}
